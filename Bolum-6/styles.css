@@ -1,0 +1,7 @@
+.paragraflar{
+    background-color: black;
+    color: pink;
+    padding: 5px;
+    border: 1px solid red;
+    display: inline-block;
+}
